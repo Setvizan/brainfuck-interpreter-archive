@@ -1,5 +1,8 @@
 # CPP Brainfuck Interpreter
-*Evaluation using AI because I am lazy*
+Pretty simple "interpreter", a reintroduction to cpp.
+
+
+*Below evaluation using AI because I am lazy*
 ## Status
 
 Working interpreter: full language, 8-bit wrapping cells, 30 000-cell tape,
